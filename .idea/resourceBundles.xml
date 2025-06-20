@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ResourceBundleManager">
+    <file url="file://$PROJECT_DIR$/src/aula85_100/meu-texto.properties" />
+    <file url="file://$PROJECT_DIR$/src/aula85_100/meu-texto_pt_BR.properties" />
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/aula85_100/meu-texto.properties" />
+      <file value="file://$PROJECT_DIR$/src/aula85_100/meu-texto_pt_BR.properties" />
+      <base-name>meu-texto</base-name>
+    </custom-resource-bundle>
+  </component>
+</project>
